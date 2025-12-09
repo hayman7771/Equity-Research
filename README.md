@@ -27,7 +27,7 @@ This repository highlights:
 - Revenue & EBITDA forecasting
 - Scenario and sensitivity tables
 - Risk evaluation summaries
-- 
+
 ### Presentation Materials
 - Investor-style slide decks
 - Executive summaries
