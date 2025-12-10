@@ -17,10 +17,10 @@ investment banking, private equity, and equity research roles:
 
 ## Repository Structure
 
-### ?? Reports
+### Reports
 Full research reports, including the CFA Institute Equity Research Challenge submission and structured analysis artifacts.
 
-### ?? Models
+### Models
 Professional-grade valuation models:  
 - DCF  
 - Trading & transaction comps  
@@ -28,13 +28,13 @@ Professional-grade valuation models:
 - Capital structure analysis  
 - LBO-lite model  
 
-### ?? Industry Analysis
+### Industry Analysis
 Templates for market sizing, competitive analysis, unit economics, and strategic positioning.
 
-### ?? Investment Memos
+### Investment Memos
 PE-style quick screens, one-page investment theses, and 3-minute deal summaries.
 
-### ?? Presentations
+### Presentations
 Pitch decks and presentation templates used to present findings to investment committees and judges.
 
 ---
