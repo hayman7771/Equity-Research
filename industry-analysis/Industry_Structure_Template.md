@@ -1,9 +1,12 @@
 # Industry Structure Template
 
 ## 1. Value Chain
-- Suppliers ? Company ? Distributors ? End Customers
+- Suppliers
+- Company
+- Distributors
+- End Customers
 
-## 2. Porter’s Five Forces
+## 2. Porterâ€™s Five Forces
 - Threat of new entrants  
 - Bargaining power of suppliers  
 - Bargaining power of customers  
