@@ -1,13 +1,16 @@
 # Presentations
 
-This folder contains equity research and investment pitch materials, including:
+This folder contains presentation materials used to communicate research findings and investment views.
 
-- Templates used to present to investment committees
-- CFA Equity Research Challenge presentation decks
-- Short-form PE-style investment pitches
+## What This Folder Shows
+- Equity research presentation templates
+- Example presentation deliverables
 
-Slide content focuses on:
-- Clear thesis articulation  
-- Key financial and valuation highlights  
-- Risk and mitigation framing  
-- Concise, decision-useful recommendations  
+## Skills Demonstrated
+- Research communication
+- Slide structuring
+- Executive-ready presentation design
+- Synthesis of analytical findings
+
+## Primary Tools
+- PowerPoint

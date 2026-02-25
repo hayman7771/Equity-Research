@@ -1,5 +1,18 @@
-__pycache__/
-*.pyc
-.env
-*.ipynb_checkpoints
+# OS / Editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# PowerPoint temp / lock files
+~$*.pptx
+
+# Logs
+*.log
+
+# Optional local notes
+*.tmp
